@@ -151,7 +151,7 @@ first div in the grid  and place it in the grid. */
 
 .container div:first-child {
   grid-column: 1/-1;
-  background-image: url("https://github.com/cacullen23/hw4-2023/blob/main/images/header.jpg");
+  background-image: url("https://github.com/cacullen23/hw4-2023/blob/main/images/header.jpg?raw=true");
   }
 
 
